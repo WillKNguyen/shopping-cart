@@ -1,5 +1,6 @@
 import React from "react";
 import Banner from "./Banner";
+import Footer from "./Footer";
 
 function App(){
     return(
@@ -12,6 +13,7 @@ function App(){
                 </div>
                 <img></img>
             </div>
+            <Footer></Footer>
         </React.Fragment>
     )
 }

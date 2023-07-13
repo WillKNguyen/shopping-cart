@@ -6,8 +6,8 @@ function Banner(){
                 <h1>Plant Planet</h1>
             </div>
             <div className="right">
-                <a>Home</a>
-                <a>Products</a>
+                <a href="/">Home</a>
+                <a href="/products">Products</a>
                 <a>Contact</a>
                 <button>Cart</button>
             </div>
